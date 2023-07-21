@@ -24,3 +24,4 @@ app.post("/", function(req, res) { ... });: When a POST request is made to the r
 <p align="justify"> <br/><b>7. Start the server and listen on port 3000:</b><br/>
 app.listen(3000, function() { ... });: The server is started and listens on port 3000. When the server is up and running, the message "Server is running on Port 3000" is printed to the console.</p>
 
+<p><i>A front end HTML File is required for executing the application. A basic front-end is designed using HTML which allows the user to enter the preferred city name and get the corresponding updates.</i></p>
